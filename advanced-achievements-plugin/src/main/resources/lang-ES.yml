@@ -118,7 +118,7 @@ list-achievement-received: '&5✔&f '
 list-achievement-not-received: '&4✘&8 '
 list-category-not-unlocked: Aún no has desbloqueado esta categoría.
 list-back-message: '&7Atras'
-list-achievements-in-category-singular: AMOUNT Losgro
+list-achievements-in-category-singular: AMOUNT Logro
 list-achievements-in-category-plural: AMOUNT Logros
 
 # Related to category names in /aach list.
